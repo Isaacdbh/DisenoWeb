@@ -22,6 +22,7 @@ body{
 	background: #333333;
 	
 	font-size: 1.5em;  
+	
 }
 
 nav{
@@ -40,22 +41,27 @@ header{
 	margin-bottom: 0.0em auto;
 	margin: 0.9em auto;
 	padding: 0.3;
+
 }
 
 header div.div2 {
 	position: relative; left: 0px; top: 10px;
+
 }
 
 ul.ul2{
 	position: relative; left: 30px; top: 200px;
+
 }
 
 ul.ul3{
 	position: relative; left: 90px; top: 151px;
+
 }
 
 ul.ul4{
 	position: relative; left: 150px; top: 98px;
+
 }
 
 ul.menu1 li a {
@@ -69,6 +75,7 @@ ul.menu1 li a {
 div.contador {
 
 	position: relative; left: -6px; top: 240px;
+
 }
 
 ul.menu1 li .icono {
@@ -77,18 +84,21 @@ ul.menu1 li .icono {
 	margin-right: 14px;
     margin-left: 10px;
     position: relative; left: 0px; top: 24px;
+
 }
 
 ul.menu1 li .icono.izquierda {
 
     float: left;
     margin-right: 10px;
+
 }
 
 ul.menu1 li .icono.derecha {
 
     float: right;
     margin-left: 10px;
+
 }
 
 ul.menu1 ul{
@@ -117,10 +127,12 @@ section#principal{
 	min-height: 200px;
 	vertical-align: top;
 	width: 100%;
+
 }
 
 div.twitter{
 	position: relative; left: 1110px; top:-450px;
+
 }
 
 table{
@@ -129,10 +141,12 @@ table{
     background:  #808080;
 	margin: 0px auto;
 	width: 1000px;
+
 }
 
 aside{
 	width: 30%;
+
 }
 
 footer{
@@ -143,4 +157,5 @@ footer{
 	max-width: 960px;
 	padding: :0.25em;
 	text-align: center;
+
 }
