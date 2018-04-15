@@ -69,6 +69,7 @@ ul.menu1 li a {
 div.contador {
 
 	position: relative; left: -6px; top: 240px;
+	text-decoration:none;
 }
 
 ul.menu1 li .icono {
@@ -124,6 +125,7 @@ section#principal{
 
 div.twitter{
 	position: relative; left: 1110px; top:-450px;
+
 }
 
 table{
